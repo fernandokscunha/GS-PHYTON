@@ -1,5 +1,10 @@
 Requalificação Profissional – Análise e Recomendação em Python
+Integrantes: 
+- Camila Mendonça (RM565491)
+- Fernando Kenzo Sassaki Cunha (RM562343)
+- Marcello Lassalla de Mello Castanho e Oliveira (RM561879)
 
+  
 Este projeto foi desenvolvido como parte da atividade da Global Solution, com foco em criar uma solução simples em Python capaz de analisar profissões em risco de automação e sugerir caminhos de requalificação.
 A ideia é usar estruturas básicas da linguagem para coletar dados, processar a base de conhecimento e apresentar orientações de forma organizada.
 
@@ -73,9 +78,6 @@ A base de profissões foi estruturada com o pandas.DataFrame, permitindo visuali
 Como Funciona o Sistema
 
 O usuário acessa o menu inicial.
-
 Escolhe entre buscar uma profissão, ver a base, rodar simulação ou sair.
-
 O programa processa a escolha e apresenta o resultado.
-
 O menu continua até que a opção de sair seja escolhida.
